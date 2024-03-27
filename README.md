@@ -7,8 +7,8 @@ This repository contains the code and instructions to build a deep learning mode
 The objective of this feature is to develop a system that utilizes facial movement and lip synchronization tracing to verify the authenticity of interviewees. By employing machine learning techniques, particularly neural networks, we aim to mitigate interview fraud, especially in online settings. This system enhances hiring integrity and reinforces the security and trustworthiness of virtual interviews, thereby fostering a reliable recruitment environment.
 
 ## Explanation of Model Structure
-Data Folder: Contains testing videos used to verify the functionality of the prototype.
-Lips Folder: Contains the virtual environment housing pre-trained model checkpoints.
+Data Folder: Contains testing videos used to verify the functionality of the prototype.  
+Lips Folder: Contains the virtual environment housing pre-trained model checkpoints.  
 App Folder: Contains the main learning model built on deep neural networks, which requires training with datasets.
 
 ## Feature Engineering
